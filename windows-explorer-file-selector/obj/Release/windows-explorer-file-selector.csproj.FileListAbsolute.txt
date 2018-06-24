@@ -1,0 +1,4 @@
+C:\Users\frenk\Documents\SharpDevelop Projects\windows-explorer-file-selector\windows-explorer-file-selector\bin\Release\windows-explorer-file-selector.exe.config
+C:\Users\frenk\Documents\SharpDevelop Projects\windows-explorer-file-selector\windows-explorer-file-selector\bin\Release\windows-explorer-file-selector.exe
+C:\Users\frenk\Documents\SharpDevelop Projects\windows-explorer-file-selector\windows-explorer-file-selector\obj\Release\windows-explorer-file-selector.csprojResolveAssemblyReference.cache
+C:\Users\frenk\Documents\SharpDevelop Projects\windows-explorer-file-selector\windows-explorer-file-selector\obj\Release\windows-explorer-file-selector.exe
